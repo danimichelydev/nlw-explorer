@@ -7,6 +7,10 @@
 
 
 
+## Ver página
+- [Ir para a página](https://danimichelydev.github.io/nlw-explorer/)
+
+
 
 ## Autora
 
