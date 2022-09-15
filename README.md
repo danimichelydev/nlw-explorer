@@ -1,6 +1,8 @@
 
 # NLW Sports 2022 - Trilha Explorer
 
+Projeto construído no evento NLW da Rocketseat.
+
 
 
 ![](./screencapture.png)
